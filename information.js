@@ -4,6 +4,7 @@ const project = {
 }
 
 module.exports = {
-    project
+    firstName: project.firstName,
+    campus: project.campus,
 }
 
